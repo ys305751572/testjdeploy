@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jdeploywebtest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jdemo.war">
+      <element id="artifact" artifact-name="jdeploywebtest:war exploded" />
+    </root>
+  </artifact>
+</component>
